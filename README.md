@@ -63,7 +63,7 @@ git clone
 
 5. Завантажте опис вашого профілю:
 
-![](/images/screen-5.png)
+![](/images/screen-6.png)
 
 ```
 git add .
